@@ -20,4 +20,8 @@
         font-size: 0.85em;
         white-space: nowrap;
     }
+    
+    .slider_container {
+        width: 300px;
+    }
 }

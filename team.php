@@ -8,6 +8,7 @@ $options = array(
     'cache_dir' => 'data/cache/',
     'auto_update' => true,
     'cache_lifetime' => 0,
+    'cache_db' => false
 );
 
 $template = Template::getInstance();
